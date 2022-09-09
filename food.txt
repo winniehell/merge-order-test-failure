@@ -3,4 +3,3 @@ chocolate
 coffee
 donuts
 dumplings
-elephants
